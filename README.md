@@ -1,6 +1,21 @@
-# ecommerce
+## E-Commerce App
 
-A new Flutter project.
+Overview
+This is a fully functional e-commerce application developed using Flutter. The project leverages the Provider package for state management, ensuring smooth and efficient state handling throughout the app. Users can browse products by categories, add items to favorites, add items to the cart, view product details, and proceed to checkout. There is also a profile page for users to manage their information.
+
+## Features
+Product Categorization: Browse products by different categories.
+Favorites: Add products to a favorites list for easy access later.
+Cart Management: Add products to the cart and view the cart's contents.
+Checkout: Proceed to checkout and review order details.
+Profile Page: Manage user profile information.
+Product Details: View detailed information about each product by clicking on it.
+
+## Dependencies
+provider: For state management
+google_fonts: For using Google Fonts in the app
+flutter: To develop the application
+Additional dependencies as required (mention any other packages used)
 
 ## Getting Started
 
